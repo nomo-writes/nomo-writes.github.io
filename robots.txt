@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rayofwitch.github.io/blog/sitemap.xml

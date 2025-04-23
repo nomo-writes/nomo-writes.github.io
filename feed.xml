@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ooomn</title>
+    <link href="https://rayofwitch.github.io/blog/feed.xml" rel="self" />
+    <link href="https://rayofwitch.github.io/blog" />
+    <updated>2025-04-23T18:53:01+10:00</updated>
+    <author>
+        <name>moo</name>
+    </author>
+    <id>https://rayofwitch.github.io/blog</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>moo</name>
+        </author>
+        <link href="https://rayofwitch.github.io/blog/test.html"/>
+        <id>https://rayofwitch.github.io/blog/test.html</id>
+
+        <updated>2025-04-23T18:53:01+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing on prod
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testing on prod
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
