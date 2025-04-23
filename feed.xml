@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>ooomn</title>
+    <title>moo&#x27;s blog</title>
     <link href="https://rayofwitch.github.io/blog/feed.xml" rel="self" />
     <link href="https://rayofwitch.github.io/blog" />
-    <updated>2025-04-23T18:53:01+10:00</updated>
+    <updated>2025-04-23T20:50:04+10:00</updated>
     <author>
         <name>moo</name>
     </author>
     <id>https://rayofwitch.github.io/blog</id>
 
+    <entry>
+        <title>Getting a blog</title>
+        <author>
+            <name>moo</name>
+        </author>
+        <link href="https://rayofwitch.github.io/blog/getting-a-blog.html"/>
+        <id>https://rayofwitch.github.io/blog/getting-a-blog.html</id>
+            <category term="tech"/>
+            <category term="my-blog"/>
+            <category term="getting-my-steps"/>
+
+        <updated>2025-04-23T20:28:38+10:00</updated>
+            <summary>
+                <![CDATA[
+                    I saw a retoot encouraging that people should get a blog. Curiosity&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I saw a retoot encouraging that people should get a blog. Curiosity piqued, I had a read of the blog post: <a href="https://www.hughrundle.net/you-should-get-a-blog/">https://www.hughrundle.net/you-should-get-a-blog/</a> </p>
+<p>Having always kept away from getting a blog because of most of the reasons Hugh goes through, I was left convinced, but overwhelmed. I'm not a fan of being stressed by new technologies so I eventually wanted to make a blog with the least amount of effort - so I went with the recommended platform, Publii connected to GitHub Pages (being more familiar with GitHub than GitLab). It took less than an hour to get something up and running. No sarcasm, I'm just really impressed.</p>
+<h2>How I went about getting a blog</h2>
+<h3>Follow your nose</h3>
+<p>As soon as you land on the homepage for <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii </a>you'll be able to scroll down and click on all the connectors. I clicked on the GitHub Pages button and against my expectations, it was an amazing tutorial that I just followed!</p>
+<p><a href="https://getpublii.com/docs/host-static-website-github-pages.html">Publii: Documentation - Creating a GitHub Pages site</a></p>
+<h3>Customisation</h3>
+<p>After going through all the settings and saving and publishing, I realised I wanted a different layout. Luckily <a href="https://getpublii.com/docs/installing-using-updating-themes.html">Publii had a tutorial</a> for changing that too! And there was a free theme that I quite liked, <a href="https://marketplace.getpublii.com/themes/mono/">Mono</a>. And once installed, I realised I had to go through all the settings <em>again</em> to configure this new theme. Tedious as it was, one of my favourite things about picking up a new hobby is exploring it, and learning by doing. </p>
+<p>There was a mild struggle as I decided what date format I should use. Should it be in ISO 8601 or should it be in my preferred readable format? What exactly is the correct syntax to get shortened month names? It was a nice touch that inside the settings for Mono theme, there was a link to <a href="https://github.com/taylorhakes/fecha">date formatting syntax</a>. </p>
+<h2>Tada!</h2>
+<p>As I said at the start, it took less than an hour to set up. Better still, because up-to-date tutorials (with annotated screenshots!) existed, I wasn't stressed at any point. I also really liked that all the interfaces I had to interact with were relatively easy to navigate. And by that, I just mean the page wasn't constantly jumping around, and the colours and buttons were consistently chosen and placed. How has it come to this, that the bar I have for UI and UX is so low? </p>
+<p>Anyway, celebratory emoji for getting a blog:💯</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test</title>
         <author>
