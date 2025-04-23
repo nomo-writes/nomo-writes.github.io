@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>moo&#x27;s blog</title>
-    <link href="https://rayofwitch.github.io/blog/feed.xml" rel="self" />
-    <link href="https://rayofwitch.github.io/blog" />
+    <link href="https://nomo-writes.github.io/feed.xml" rel="self" />
+    <link href="https://nomo-writes.github.io" />
     <updated>2025-04-23T20:50:04+10:00</updated>
     <author>
         <name>moo</name>
     </author>
-    <id>https://rayofwitch.github.io/blog</id>
+    <id>https://nomo-writes.github.io</id>
 
     <entry>
         <title>Getting a blog</title>
         <author>
             <name>moo</name>
         </author>
-        <link href="https://rayofwitch.github.io/blog/getting-a-blog.html"/>
-        <id>https://rayofwitch.github.io/blog/getting-a-blog.html</id>
+        <link href="https://nomo-writes.github.io/getting-a-blog.html"/>
+        <id>https://nomo-writes.github.io/getting-a-blog.html</id>
             <category term="tech"/>
             <category term="my-blog"/>
             <category term="getting-my-steps"/>
@@ -48,8 +48,8 @@
         <author>
             <name>moo</name>
         </author>
-        <link href="https://rayofwitch.github.io/blog/test.html"/>
-        <id>https://rayofwitch.github.io/blog/test.html</id>
+        <link href="https://nomo-writes.github.io/test.html"/>
+        <id>https://nomo-writes.github.io/test.html</id>
 
         <updated>2025-04-23T18:53:01+10:00</updated>
             <summary>
