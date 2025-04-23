@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "moo&#x27;s blog",
+    "title": "nomo writes",
     "description": "",
     "home_page_url": "https://nomo-writes.github.io",
     "feed_url": "https://nomo-writes.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "moo"
+        "name": "nomo"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "I saw a retoot encouraging that people should get a blog. Curiosity piqued, I had&hellip;",
             "content_html": "<p>I saw a retoot encouraging that people should get a blog. Curiosity piqued, I had a read of the blog post: <a href=\"https://www.hughrundle.net/you-should-get-a-blog/\">https://www.hughrundle.net/you-should-get-a-blog/</a> </p>\n<p>Having always kept away from getting a blog because of most of the reasons Hugh goes through, I was left convinced, but overwhelmed. I'm not a fan of being stressed by new technologies so I eventually wanted to make a blog with the least amount of effort - so I went with the recommended platform, Publii connected to GitHub Pages (being more familiar with GitHub than GitLab). It took less than an hour to get something up and running. No sarcasm, I'm just really impressed.</p>\n<h2>How I went about getting a blog</h2>\n<h3>Follow your nose</h3>\n<p>As soon as you land on the homepage for <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii </a>you'll be able to scroll down and click on all the connectors. I clicked on the GitHub Pages button and against my expectations, it was an amazing tutorial that I just followed!</p>\n<p><a href=\"https://getpublii.com/docs/host-static-website-github-pages.html\">Publii: Documentation - Creating a GitHub Pages site</a></p>\n<h3>Customisation</h3>\n<p>After going through all the settings and saving and publishing, I realised I wanted a different layout. Luckily <a href=\"https://getpublii.com/docs/installing-using-updating-themes.html\">Publii had a tutorial</a> for changing that too! And there was a free theme that I quite liked, <a href=\"https://marketplace.getpublii.com/themes/mono/\">Mono</a>. And once installed, I realised I had to go through all the settings <em>again</em> to configure this new theme. Tedious as it was, one of my favourite things about picking up a new hobby is exploring it, and learning by doing. </p>\n<p>There was a mild struggle as I decided what date format I should use. Should it be in ISO 8601 or should it be in my preferred readable format? What exactly is the correct syntax to get shortened month names? It was a nice touch that inside the settings for Mono theme, there was a link to <a href=\"https://github.com/taylorhakes/fecha\">date formatting syntax</a>. </p>\n<h2>Tada!</h2>\n<p>As I said at the start, it took less than an hour to set up. Better still, because up-to-date tutorials (with annotated screenshots!) existed, I wasn't stressed at any point. I also really liked that all the interfaces I had to interact with were relatively easy to navigate. And by that, I just mean the page wasn't constantly jumping around, and the colours and buttons were consistently chosen and placed. How has it come to this, that the bar I have for UI and UX is so low? </p>\n<p>Anyway, celebratory emoji for getting a blog:💯</p>",
             "author": {
-                "name": "moo"
+                "name": "nomo"
             },
             "tags": [
                    "tech",
@@ -33,7 +33,7 @@
             "summary": "Testing on prod",
             "content_html": "\n  <p>\n    Testing on prod\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
-                "name": "moo"
+                "name": "nomo"
             },
             "tags": [
             ],
