@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nomo-writes.github.io/embassy-terminology.html",
+            "url": "https://nomo-writes.github.io/embassy-terminology.html",
+            "title": "Embassy terminology",
+            "summary": "Did you know that \"embassy\" isn't the only word we use to label that sacred&hellip;",
+            "content_html": "<p>Did you know that \"embassy\" isn't the only word we use to label that sacred place that is another country's little spot in our country? </p>\n<p>(1) Embassies and high commissions operate in <strong>capital cities</strong></p>\n<p>(2) High commission = embassy in Commonwealth countries</p>\n<p>(3) There's three categories with \"consulate\" in the name:</p>\n<ul style=\"list-style-type: square;\">\n<li>Consulate</li>\n<li>Consulate-General</li>\n<li>Consulate headed by an Honorary Consul</li>\n</ul>\n<p>And all three are embassies in <strong>non-capital cities.</strong></p>\n<p>(4) Honorary consuls are <em>private </em>businesspersons assisting in limited, part-time capacities only</p>\n<p>These are not just made-up terms from Australia, they're in the Vienna Convention treaties, specifically on <a href=\"http://www.austlii.edu.au/au/other/dfat/treaties/1968/3.html\">Diplomatic Relations </a>and <a href=\"http://www.austlii.edu.au/au/other/dfat/treaties/1973/7.html\">Consular Relations</a>.</p>\n<p class=\"msg msg--info\"><strong>Source:</strong><br>DFAT, \"<span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Roles and responsibilities of embassies and other representative offices\" </span><a href=\"https://www.dfat.gov.au/about-us/department/Pages/roles-and-responsibilities-of-embassies-and-other-representative-offices\">https://www.dfat.gov.au/about-us/department/Pages/roles-and-responsibilities-of-embassies-and-other-representative-offices</a></p>\n<p>I found it really interesting to scroll through the huge lists that DFAT maintains of all our international relations in the form of real-life physical offices. And because \"country\" isn't used anywhere, you can see an official mention of Taiwain. As a layman, the seemingly random inclusion on this area but not another area in government will always amuse me a little.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 8.55879%;\">(1) &amp; (2)</td>\n<td style=\"width: 23.2378%;\">All the embassies in Canberra</td>\n<td style=\"width: 68.2985%;\">\n<p><a href=\"https://protocol.dfat.gov.au/Public/MissionsInAustralia\">https://protocol.dfat.gov.au/Public/MissionsInAustralia</a> (isn't it neat that they're called \"Missions\"?!)</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 8.55879%;\">(3)</td>\n<td style=\"width: 23.2378%;\">All the consulates outside Canberra</td>\n<td style=\"width: 68.2985%;\"><a>https://protocol.dfat.gov.au/Public/ConsulatesInAustralia</a></td>\n</tr>\n<tr>\n<td style=\"width: 8.55879%;\">(New!)</td>\n<td style=\"width: 23.2378%;\">All our embassies and consulates overseas</td>\n<td style=\"width: 68.2985%;\"><a>https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas</a></td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "nomo"
+            },
+            "tags": [
+                   "international-relations",
+                   "info-snippet",
+                   "australia"
+            ],
+            "date_published": "2025-04-25T00:51:45+10:00",
+            "date_modified": "2025-04-25T00:51:45+10:00"
+        },
+        {
             "id": "https://nomo-writes.github.io/getting-a-blog.html",
             "url": "https://nomo-writes.github.io/getting-a-blog.html",
             "title": "Getting a blog",
